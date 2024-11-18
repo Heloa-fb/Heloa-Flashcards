@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Qual é o valor de π (pi) até a segunda casa decimal?',
-    ' O valor é 3,14'
+    'O valor é 3,14'
 )
 
 criaCartao(
