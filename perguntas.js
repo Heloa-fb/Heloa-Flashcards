@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Quem foi o imperador romano responsável pela divisão do Império Romano em duas partes?',
+    'O imperador Diocleciano'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o maior continente do mundo?',
+    'O maior continente é a Ásia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Matemática',
+    'Qual é o valor de π (pi) até a segunda casa decimal?',
+    ' O valor é 3,14'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Ciências',
+    'Qual é a função principal dos glóbulos vermelhos no sangue?',
+    'Sua função é transportar oxigênio'
 )
